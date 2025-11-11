@@ -1,4 +1,1 @@
-# test
-# test
-# ChainScript
-# ChainScript
+# ChainScript README
